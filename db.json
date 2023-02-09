@@ -12,5 +12,14 @@
       "content": "Wow such content!",
       "username": "zero_cool"
     }
+  ],
+  "userdata":[
+    {
+      "id":1,
+      "name":"shri",
+      "address":"Latur",
+      "state":"maharastra"
+
+    }
   ]
 }
